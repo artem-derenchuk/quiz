@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="levelone">Choose a higher number. \nQuestions can be repeated until you reach 20 points.</string>
+    <string name="leveloneEnd">Congratulations, level passed! \n
+        Did you know that the number 7 is considered the luckiest number. There are 7 days a week, 7 continents, 7 colors of the rainbow, 7 musical notes, 7 days of Creation and much more.
+        Also, the number 7 is most often the favorite chill of people all over the world.</string>
+    <string name="leveltwo">Choose a Roman numeral that is larger. \nThe questions may be repeated until you reach 20 points.</string>
+    <string name="leveltwoEnd">Congratulations, level passed! \n
+        Did you know that there is no zero in Roman numerals</string>
+    <string name="levelthree">Which animal shows its tongue more? \nThe questions may be repeated until you get 20 points.</string>
+    <string name="levelthreeEnd">Congratulations, level passed! \n
+         Did you know that when a woodpecker strikes a tree with its beak, it draws in its tongue and wraps it around its brain to protect it.</string>
+    <string name="levelfour">Choose something edible. \n
+        The questions can be repeated until you reach 20 points.</string>
+    <string name="levelfourEnd">Congratulations, level passed! \n
+    Did you know that the most popular fruit in the world is the tomato! For those who are not in the know - tomatoes are classified as fruits, and they consist of 94.5 percent water.</string>
+    <string name="levelfive">Choose something alive. \nQuestions can be repeated until you get 20 points.</string>
+    <string name="levelfiveEnd">Congratulations, level passed! \n
+    Did you know that a tooth is the only part of the human body that is not capable of self-healing?</string>
+    <string name="levelsix">Choose a higher number. \nQuestions can be repeated until you reach 20 points.</string>
+    <string name="levelsixEnd">Congratulations, level passed! \n
+    Did you know that different peoples have different attitudes towards even and odd numbers. For example, we have to give a girl a bouquet with an even number of flowers - either a terrible tactlessness, or a frank death wish. And Europeans and Americans believe that the "even" bouquet brings happiness.</string>
+    <string name="levelseven">Choose a fruit. \n Questions may be repeated until you reach 20 points.</string>
+    <string name="levelsevenEnd">Congratulations, level passed! \n
+    Did you know that coconut is actually not a nut, as is commonly thought, but a stone fruit. Its closest relatives are plum, apricot and peach.</string>
+    <string name="leveleight">Pick a truck. \nQuestions can be repeated until you reach 20 points</string>
+    <string name="leveleightEnd">Congratulations, level passed! \n
+    Did you know that gasoline-powered cars were invented later than electric vehicles!</string>
+    <string name="levelnine">Choose a city. \nQuestions can be repeated until you get 20 points.</string>
+    <string name="levelnineEnd">Congratulations, level passed! \n
+    Did you know that in Reykjavik they make heated sidewalks to turn rain and snow into ice in winter!</string>
+    <string name="levelten">Choose useful. \nQuestions can be repeated until you reach 20 points.</string>
+    <string name="leveltenEnd">Congratulations, level passed! \n
+    Did you know that lemons have more sugar than strawberries. Lemon contains 70%, and strawberries only 40%.</string>
+    <string name="leveleleven">Choose a planet. \nQuestions can be repeated until you get 20 points.</string>
+    <string name="levelelevenEnd">Congratulations, level passed! \n
+    Did you know that a day on Mars lasts almost the same as on Earth - only 37 minutes longer.</string>
+    <string name="leveltwelve">Choose air transport. \nQuestions may be repeated until you reach 20 points.</string>
+    <string name="leveltwelveEnd">Congratulations, level passed! \n
+    Did you know that air transport is the safest form of transport in the world!</string>
+    <string name="levelthirteen">Choose a boat. \nQuestions can be repeated until you get 20 points.</string>
+    <string name="levelthirteenEnd">Congratulations, level passed! \n
+    Did you know that the average annual salary for a marine transport worker ranges from $ 45,000 to $ 65,000!</string>
+    <string name="levelfourteen">Choose a car part. \nQuestions can be repeated until you get 20 points.</string>
+    <string name="levelfourteenEnd">Congratulations, level passed! \n
+    Did you know that the worlds first speeding offender was fined 13 km/h!</string>
+    <string name="levelfifteen">Choose the first letter of the alphabet. \nThe questions can be repeated until you get 20 points.</string>
+    <string name="levelfifteenEnd">Congratulations, level passed! \n
+    Did you know that the letter "o" is 2,000 years older than the entire alphabet!</string>
+    <string name="levelsixteen">Choose a word with more letters. \nThe questions can be repeated until you get 20 points.</string>
+    <string name="levelsixteenEnd">Congratulations, level passed! \n
+    Did you know that in Russian there are words with three "E" in a row. There are only two of them - exotic "Snake Eater" and "LONG-NECKED".</string>
+    <string name="levelseventeen">Choose a female name. \nThe questions may be repeated until you get 20 points.</string>
+    <string name="levelseventeenEnd">Congratulations, level passed! \n
+    Did you know that the sound of a name affects character and psyche.
+    Modern scientific specialists have come to the conclusion that human names, or rather their sound, have a direct impact on the essence and psyche.
+        This interesting fact about names has been repeatedly confirmed. The less frequent and unusual the name itself, the more attention it draws to a person, and the more destructive effect it has in terms of influence
+        on the psychological factor of the carrier.</string>
+    <string name="leveleighteen">Choose the correct spelling. \nQuestions can be repeated until you get 20 points.</string>
+    <string name="leveleighteenEnd">Congratulations, level passed! \n
+    Did you know that there are more feminine nouns in Russian than masculine words? Linguists have calculated that only about 40.5% of nouns are masculine, 43% are feminine, and about 16.5% are neuter.</string>
+    <string name="levelnineteen">Choose a superhero. \nQuestions can be repeated until you reach 20 points.</string>
+    <string name="levelnineteenEnd">Congratulations, level passed! \n
+    Did you know comics are useful! \n
+        Many parents find comics to be very harmful to the development of their children.
+        But British American scientists have proved the opposite. They believe that by reading a magazine and looking at pictures of superheroes, children develop reading skills and memory faster.</string>
+    <string name="leveltwenty">Choose outerwear. \nQuestions may be repeated until you reach 20 points.</string>
+    <string name="leveltwentyEnd">Congratulations, level passed! \n
+    Did you know that the poncho was used in the army?! /n
+        Multifunctionality was what attracted American Civil War soldiers to the poncho. With Velcro, they sealed the head hole so that
+        to transform this outer garment into a sleeping bag, with certain skills they could also transform a poncho into a tent.</string>
+    <string name="leveltwentyone">Choose a cartoon. \nQuestions can be repeated until you get 20 points.</string>
+    <string name="leveltwentyoneEnd">Congratulations, level passed! \n
+    Did you know that the cartoon "The Little Mermaid", which was drawn by hand, has more than 1 million drawings, 1000 different colors and 1100 backgrounds. And all this without the help of a computer!</string>
+    <string name="leveltwentytwo">Choose your school affiliation. \nQuestions may be repeated until you reach 20 points.</string>
+    <string name="leveltwentytwoEnd">Congratulations, level passed! \n
+    Did you know that the longest lesson lasted 54 hours. This is the professor of biology giving his lecture. It happened in Australia in 2003.</string>
+    <string name="leveltwentythree">Choose an ingredient for the cake. \nQuestions may be repeated until you reach 20 points.</string>
+    <string name="leveltwentythreeEnd">Congratulations, level passed! \n
+    Did you know that the longest cake was made in Peru. 300 pastry chefs worked on its creation, and for a delicious delicacy, in the end, it took 500 kg of sugar and the same amount of eggs!
+        The length of the cake was 246 meters. Then it was cut into 15,000 pieces, which the little June birthday people managed to eat.</string>
+    <string name="leveltwentyfour">Choose a part of a person. \nQuestions can be repeated until you get 20 points.</string>
+    <string name="leveltwentyfourEnd">Congratulations, level passed! \n
+    Did you know that the skin is the largest human organ!</string>
+    <string name="leveltwentyfive">Choose the correct name for the geometric shape. \nThe questions may be repeated until you get 20 points.</string>
+    <string name="leveltwentyfiveEnd">\Congratulations, level passed! \n
+    Did you know that Euclid himself proved 465 geometric theorems?</string>
+    <string name="leveltwentysix">Choose the highest amount of digits. \nThe questions can be repeated until you get 20 points.</string>
+    <string name="leveltwentysixEnd">Congratulations, level passed! \n
+    Did you know that 666 is considered the number of the demon.</string>
+    <string name="leveltwentyseven">Choose a famous soccer player. \nQuestions may be repeated until you reach 20 points.</string>
+    <string name="leveltwentysevenEnd">Congratulations, level passed! \n
+    Did you know that the holders of the golden ball in the entire history of football are often players of the attacking line, occasionally - defenders, but the only goalkeeper who received this award is Lev Yashin in 1963.</string>
+    <string name="leveltwentyeight">Choose something you can not touch! \nThe questions may be repeated until you reach 20 points.</string>
+    <string name="leveltwentyeightEnd">Congratulations, level passed! \n
+    Did you know that mosquitoes are the ones that cause the most deaths.
+        On the conscience of annoying and annoying insects that drink our blood and thereby transmit
+        viruses from person to person, the largest number of deaths associated with animals.
+        Malaria alone kills 350,000 people, mostly in sub-Saharan Africa.
+        although this disease is declining. Dengue fever, another mosquito-borne disease
+        became the leading cause of hospitalization and death of many children in some countries in Asia and Latin America.</string>
+    <string name="leveltwentynine">Choose things that perform 2 or more functions. \nQuestions can be repeated until you get 20 points.</string>
+    <string name="leveltwentynineEnd">Congratulations, level passed! \n
+    Did you know that you have to go through the last level? You will have to remember a lot and work hard to pass it :)</string>
+    <string name="levelthirty">Choose a famous soccer player. \nQuestions may be repeated until you reach 20 points.</string>
+    <string name="levelthirtyEnd">Congratulations, level passed! \n
+    Did you know that the holders of the golden ball in the entire history of football are often players of the attacking line, occasionally - defenders, but the only goalkeeper who received this award is Lev Yashin in 1963.</string>
+</resources>
